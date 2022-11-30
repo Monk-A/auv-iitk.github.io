@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.100b8ad2.css",
-    "main.js": "./static/js/main.fa0280ea.js",
+    "main.js": "./static/js/main.3dc1f99a.js",
     "static/media/SnT Techkriti Poster redifined.png": "./static/media/SnT Techkriti Poster redifined.1006250e0a8972df1529.png",
     "static/media/niotwinner.jpeg": "./static/media/niotwinner.9cc977363d7b4be14b73.jpeg",
     "static/media/logo_v1.32.png": "./static/media/logo_v1.32.f7330349cc1c2fa32bb8.png",
@@ -33,6 +33,7 @@
     "static/media/sumay.jpg": "./static/media/sumay.dbe1794be32d08392481.jpg",
     "static/media/MahavirAgarwal.jpg": "./static/media/MahavirAgarwal.32bbd937cc73c02b54bc.jpg",
     "static/media/image.png": "./static/media/image.eaf346152befb40814ba.png",
+    "static/media/omjee.jpg": "./static/media/omjee.6bf3942e0fdc7dad5432.jpg",
     "static/media/mahavir.jpg": "./static/media/mahavir.949a4b67eb332d519c95.jpg",
     "static/media/DakshitaMittal.jpg": "./static/media/DakshitaMittal.a338ffc35344ef41d49a.jpg",
     "static/media/varun_exploded.png": "./static/media/varun_exploded.78bf6fb1efe1c0ba7220.png",
@@ -59,6 +60,7 @@
     "static/media/bg-1.jpg": "./static/media/bg-1.6723f67f4e10ac997247.jpg",
     "static/media/chinmay.jpg": "./static/media/chinmay.6c199cf152e40d13527a.jpg",
     "static/media/varun-underwater.jpg": "./static/media/varun-underwater.a9e7c378afc879ff6efc.jpg",
+    "static/media/keshavc.jpg": "./static/media/keshavc.ceee856e9fd0413a7200.jpg",
     "static/media/F_YOLO.png": "./static/media/F_YOLO.ce78f7ef265f52431202.png",
     "static/media/sumithooda.jpg": "./static/media/sumithooda.721d2df982ce005f36c1.jpg",
     "static/media/StressAnalysisOnAnsys.png": "./static/media/StressAnalysisOnAnsys.fde5f34e1ff3e2109755.png",
@@ -121,7 +123,6 @@
     "static/media/sensors.png": "./static/media/sensors.60179b8b2c06611a1eb6.png",
     "static/media/Anahita.jpg": "./static/media/Anahita.81e09ad7f232dc6d4b7e.jpg",
     "static/media/SidePlateDesign.png": "./static/media/SidePlateDesign.2676a1cb955d2e5a6c55.png",
-    "static/media/OmJee.jpg": "./static/media/OmJee.dc5374aa15ce50a0f522.jpg",
     "static/media/PneumaticAssembly.png": "./static/media/PneumaticAssembly.9c956c7c4f02b00b058f.png",
     "static/media/Jekyll.png": "./static/media/Jekyll.494e9f458939264bfc0e.png",
     "static/media/sakshammittal.jpeg": "./static/media/sakshammittal.ca61251f8b5833185b69.jpeg",
@@ -240,6 +241,7 @@
     "static/media/shashank.jpeg": "./static/media/shashank.9b8d580028b5315eac2b.jpeg",
     "static/media/placeholder.png": "./static/media/placeholder.6a38dce7be3cf302b862.png",
     "static/media/SW.jpg": "./static/media/SW.1c3b4ec52ee9667c377a.jpg",
+    "static/media/sanyamjain.jpeg": "./static/media/sanyamjain.0b387229ead93290ed28.jpeg",
     "static/media/PWMvsThrustGraph.png": "./static/media/PWMvsThrustGraph.48c6e08807e5a73b6cb5.png",
     "static/media/lakshyab.jpg": "./static/media/lakshyab.7d4a6939b33742d7bec8.jpg",
     "static/media/ansys.jpg": "./static/media/ansys.0d371a50bd096c67c29a.jpg",
@@ -274,10 +276,10 @@
     "index.html": "./index.html",
     "static/media/software.jpeg:Zone.Identifier": "./static/media/software.jpeg:Zone.483525e70d1824d94d17.Identifier",
     "main.100b8ad2.css.map": "./static/css/main.100b8ad2.css.map",
-    "main.fa0280ea.js.map": "./static/js/main.fa0280ea.js.map"
+    "main.3dc1f99a.js.map": "./static/js/main.3dc1f99a.js.map"
   },
   "entrypoints": [
     "static/css/main.100b8ad2.css",
-    "static/js/main.fa0280ea.js"
+    "static/js/main.3dc1f99a.js"
   ]
 }
